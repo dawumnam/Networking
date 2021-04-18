@@ -1,5 +1,4 @@
-Dawum Nam
-Networking Assignment 1 
+
 TFTP 
 
 1a connection, argparse, sending and receiving request, ack, data,
